@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints
+notebooks/__pycache__/
+notebooks/results/
+
+# Large raw/intermediate data
+data/
+data/raw/
+data/processed/
+*.h5ad
+*.h5
+*.loom
+*.mtx
+*.mtx.gz
+*.tsv.gz
+*.csv.gz
+
+# Heavy pipeline outputs
+results/40_starsolo_count/
+results/41_starsolo_count/
+results/42_starsolo_count/
+results/50_scanpy_qc/
+
+# OS / editor clutter
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Everything under results but key figures and data sheets.
+results/*
+!results/figures/
+!results/tables/
+!results/de_mito_qc_summary_all_comparisons.csv
+!results/figures/*.png
+!results/figures/*.pdf
+!results/tables/*.csv
+!results/de_pseudobulk_broad/
+!results/de_pseudobulk_exc_focus/
+!results/de_pseudobulk_broad/*_mito_qc.csv
+!results/de_pseudobulk_exc_focus/*_mito_qc.csv
+
+# Remote shortcut / local machine artifacts
+*.inetloc

@@ -1,0 +1,13 @@
+sample_id,condition,dataset,tissue,source_name,filtered_matrix_dir,raw_matrix_dir
+GSM5292174,Control,GSE174332,Motor Cortex,Motor Cortex,results/40_starsolo_count/GSM5292174_PN/Solo.out/GeneFull/filtered,results/40_starsolo_count/GSM5292174_PN/Solo.out/GeneFull/raw
+GSM5292175,Control,GSE174332,Motor Cortex,Motor Cortex,results/41_starsolo_count/GSM5292175_PN/Solo.out/GeneFull/filtered,results/41_starsolo_count/GSM5292175_PN/Solo.out/GeneFull/raw
+GSM5292176,Control,GSE174332,Motor Cortex,Motor Cortex,results/42_starsolo_count/GSM5292176_PN/Solo.out/GeneFull/filtered,results/42_starsolo_count/GSM5292176_PN/Solo.out/GeneFull/raw
+GSM5292177,Control,GSE174332,Motor Cortex,Motor Cortex,results/42_starsolo_count/GSM5292177_PN/Solo.out/GeneFull/filtered,results/42_starsolo_count/GSM5292177_PN/Solo.out/GeneFull/raw
+GSM5292146,c9ALS,GSE174332,Motor Cortex,Motor Cortex,results/40_starsolo_count/GSM5292146_c9ALS/Solo.out/GeneFull/filtered,results/40_starsolo_count/GSM5292146_c9ALS/Solo.out/GeneFull/raw
+GSM5292147,c9ALS,GSE174332,Motor Cortex,Motor Cortex,results/41_starsolo_count/GSM5292147_c9ALS/Solo.out/GeneFull/filtered,results/41_starsolo_count/GSM5292147_c9ALS/Solo.out/GeneFull/raw
+GSM5292156,c9ALS,GSE174332,Motor Cortex,Motor Cortex,results/42_starsolo_count/GSM5292156_c9ALS/Solo.out/GeneFull/filtered,results/42_starsolo_count/GSM5292156_c9ALS/Solo.out/GeneFull/raw
+GSM5292157,c9ALS,GSE174332,Motor Cortex,Motor Cortex,results/42_starsolo_count/GSM5292157_c9ALS/Solo.out/GeneFull/filtered,results/42_starsolo_count/GSM5292157_c9ALS/Solo.out/GeneFull/raw
+GSM5292143,sALS,GSE174332,Motor Cortex,Motor Cortex,results/41_starsolo_count/GSM5292143_sALS/Solo.out/GeneFull/filtered,results/41_starsolo_count/GSM5292143_sALS/Solo.out/GeneFull/raw
+GSM5292144,sALS,GSE174332,Motor Cortex,Motor Cortex,results/42_starsolo_count/GSM5292144_sALS/Solo.out/GeneFull/filtered,results/42_starsolo_count/GSM5292144_sALS/Solo.out/GeneFull/raw
+GSM5292145,sALS,GSE174332,Motor Cortex,Motor Cortex,results/41_starsolo_count/GSM5292145_sALS/Solo.out/GeneFull/filtered,results/41_starsolo_count/GSM5292145_sALS/Solo.out/GeneFull/raw
+GSM5292148,sALS,GSE174332,Motor Cortex,Motor Cortex,results/42_starsolo_count/GSM5292148_sALS/Solo.out/GeneFull/filtered,results/42_starsolo_count/GSM5292148_sALS/Solo.out/GeneFull/raw
