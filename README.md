@@ -44,6 +44,7 @@ The workflow includes:
 
 ## Repository Structure
 
+```text
 .
 ├── config/
 │   └── samples.csv
@@ -63,7 +64,7 @@ The workflow includes:
 │   ├── 20_fastqc.slurm
 │   ├── 21_multiqc.slurm
 │   ├── 30_starsolo_index.slurm
-│   ├── 40_starsolo_count.slurm  
+│   ├── 40_starsolo_count.slurm
 │   ├── 41_starsolo_count.slurm
 │   └── 42_starsolo_count.slurm
 └── src/
@@ -76,6 +77,7 @@ The workflow includes:
         ├── io_utils.py
         ├── pipeline.py
         └── qc_low_quality_cell.py
+```
 
 ## Environment Setup
 
