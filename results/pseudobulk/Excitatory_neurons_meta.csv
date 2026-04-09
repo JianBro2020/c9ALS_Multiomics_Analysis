@@ -1,0 +1,13 @@
+sample,condition,group,groupby_col,n_cells
+GSM5292143,sALS,Excitatory_neurons,cell_class_major_harmony,2867
+GSM5292144,sALS,Excitatory_neurons,cell_class_major_harmony,1770
+GSM5292145,sALS,Excitatory_neurons,cell_class_major_harmony,330
+GSM5292146,c9ALS,Excitatory_neurons,cell_class_major_harmony,2322
+GSM5292147,c9ALS,Excitatory_neurons,cell_class_major_harmony,3094
+GSM5292148,sALS,Excitatory_neurons,cell_class_major_harmony,1197
+GSM5292156,c9ALS,Excitatory_neurons,cell_class_major_harmony,1632
+GSM5292157,c9ALS,Excitatory_neurons,cell_class_major_harmony,2609
+GSM5292174,Control,Excitatory_neurons,cell_class_major_harmony,1269
+GSM5292175,Control,Excitatory_neurons,cell_class_major_harmony,1278
+GSM5292176,Control,Excitatory_neurons,cell_class_major_harmony,779
+GSM5292177,Control,Excitatory_neurons,cell_class_major_harmony,659

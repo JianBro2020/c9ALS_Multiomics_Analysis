@@ -1,0 +1,13 @@
+sample,condition,group_value,groupby_col,n_cells
+GSM5292143,sALS,Broad_IT_exc,exc_subclass_focus,69
+GSM5292144,sALS,Broad_IT_exc,exc_subclass_focus,268
+GSM5292145,sALS,Broad_IT_exc,exc_subclass_focus,160
+GSM5292146,c9ALS,Broad_IT_exc,exc_subclass_focus,100
+GSM5292147,c9ALS,Broad_IT_exc,exc_subclass_focus,46
+GSM5292148,sALS,Broad_IT_exc,exc_subclass_focus,132
+GSM5292156,c9ALS,Broad_IT_exc,exc_subclass_focus,203
+GSM5292157,c9ALS,Broad_IT_exc,exc_subclass_focus,97
+GSM5292174,Control,Broad_IT_exc,exc_subclass_focus,95
+GSM5292175,Control,Broad_IT_exc,exc_subclass_focus,250
+GSM5292176,Control,Broad_IT_exc,exc_subclass_focus,102
+GSM5292177,Control,Broad_IT_exc,exc_subclass_focus,70

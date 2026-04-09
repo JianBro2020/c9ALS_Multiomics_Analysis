@@ -1,0 +1,13 @@
+sample,condition,group,groupby_col,n_cells
+GSM5292143,sALS,OPCs,cell_class_major_harmony,122
+GSM5292144,sALS,OPCs,cell_class_major_harmony,290
+GSM5292145,sALS,OPCs,cell_class_major_harmony,757
+GSM5292146,c9ALS,OPCs,cell_class_major_harmony,369
+GSM5292147,c9ALS,OPCs,cell_class_major_harmony,708
+GSM5292148,sALS,OPCs,cell_class_major_harmony,603
+GSM5292156,c9ALS,OPCs,cell_class_major_harmony,243
+GSM5292157,c9ALS,OPCs,cell_class_major_harmony,376
+GSM5292174,Control,OPCs,cell_class_major_harmony,334
+GSM5292175,Control,OPCs,cell_class_major_harmony,336
+GSM5292176,Control,OPCs,cell_class_major_harmony,89
+GSM5292177,Control,OPCs,cell_class_major_harmony,57

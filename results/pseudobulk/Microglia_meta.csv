@@ -1,0 +1,13 @@
+sample,condition,group,groupby_col,n_cells
+GSM5292143,sALS,Microglia,cell_class_major_harmony,1426
+GSM5292144,sALS,Microglia,cell_class_major_harmony,2669
+GSM5292145,sALS,Microglia,cell_class_major_harmony,1448
+GSM5292146,c9ALS,Microglia,cell_class_major_harmony,1502
+GSM5292147,c9ALS,Microglia,cell_class_major_harmony,1638
+GSM5292148,sALS,Microglia,cell_class_major_harmony,2169
+GSM5292156,c9ALS,Microglia,cell_class_major_harmony,1353
+GSM5292157,c9ALS,Microglia,cell_class_major_harmony,1279
+GSM5292174,Control,Microglia,cell_class_major_harmony,1191
+GSM5292175,Control,Microglia,cell_class_major_harmony,1337
+GSM5292176,Control,Microglia,cell_class_major_harmony,1321
+GSM5292177,Control,Microglia,cell_class_major_harmony,648

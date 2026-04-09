@@ -52,6 +52,20 @@ results/*
 !results/de_pseudobulk_exc_focus/
 !results/de_pseudobulk_broad/*_mito_qc.csv
 !results/de_pseudobulk_exc_focus/*_mito_qc.csv
+# Keep compact pseudobulk matrices/metadata for reproducibility
+!results/pseudobulk/
+!results/pseudobulk/*_counts.csv
+!results/pseudobulk/*_meta.csv
+!results/pseudobulk_exc_focus/
+!results/pseudobulk_exc_focus/*_counts.csv
+!results/pseudobulk_exc_focus/*_meta.csv
+
+# Ignore local interactive exports
+results/figures/*.html
+
+# Ignore exploratory WGCNA outputs by default
+results/wgcna_microglia/
+
 
 # Remote shortcut / local machine artifacts
 *.inetloc
