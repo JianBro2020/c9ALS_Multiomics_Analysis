@@ -1,0 +1,13 @@
+sample,condition,group,groupby_col,n_cells
+GSM5292143,sALS,Inhibitory,cell_class_major_harmony,1067
+GSM5292144,sALS,Inhibitory,cell_class_major_harmony,630
+GSM5292145,sALS,Inhibitory,cell_class_major_harmony,70
+GSM5292146,c9ALS,Inhibitory,cell_class_major_harmony,887
+GSM5292147,c9ALS,Inhibitory,cell_class_major_harmony,1410
+GSM5292148,sALS,Inhibitory,cell_class_major_harmony,417
+GSM5292156,c9ALS,Inhibitory,cell_class_major_harmony,375
+GSM5292157,c9ALS,Inhibitory,cell_class_major_harmony,821
+GSM5292174,Control,Inhibitory,cell_class_major_harmony,288
+GSM5292175,Control,Inhibitory,cell_class_major_harmony,218
+GSM5292176,Control,Inhibitory,cell_class_major_harmony,409
+GSM5292177,Control,Inhibitory,cell_class_major_harmony,125

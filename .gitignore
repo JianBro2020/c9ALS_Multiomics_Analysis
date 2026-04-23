@@ -3,21 +3,26 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+
+# Jupyter
 .ipynb_checkpoints/
-*.pyc
+*.ipynb_checkpoints
+notebooks/__pycache__/
+notebooks/results/
 
 # Virtual environments
 .venv/
 venv/
 env/
 
-# Jupyter
-*.ipynb_checkpoints
-notebooks/__pycache__/
-notebooks/results/
+# OS / editor clutter
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*.inetloc
 
-# Large raw/intermediate data
-data/
+# Large data / checkpoints
 data/raw/
 data/processed/
 *.h5ad
@@ -34,38 +39,32 @@ results/41_starsolo_count/
 results/42_starsolo_count/
 results/50_scanpy_qc/
 
-# OS / editor clutter
-.DS_Store
-.vscode/
-*.swp
-*.swo
-
-# Everything under results but key figures and data sheets.
+# Ignore results by default
 results/*
+
+# Keep compact publication-facing outputs
 !results/figures/
-!results/tables/
-!results/de_mito_qc_summary_all_comparisons.csv
 !results/figures/*.png
 !results/figures/*.pdf
+
+!results/tables/
 !results/tables/*.csv
-!results/de_pseudobulk_broad/
-!results/de_pseudobulk_exc_focus/
-!results/de_pseudobulk_broad/*_mito_qc.csv
-!results/de_pseudobulk_exc_focus/*_mito_qc.csv
-# Keep compact pseudobulk matrices/metadata for reproducibility
+!results/tables/subtype_marker_scoring/
+!results/tables/subtype_marker_scoring/*.csv
+
 !results/pseudobulk/
-!results/pseudobulk/*_counts.csv
-!results/pseudobulk/*_meta.csv
-!results/pseudobulk_exc_focus/
-!results/pseudobulk_exc_focus/*_counts.csv
-!results/pseudobulk_exc_focus/*_meta.csv
+results/pseudobulk/*
+!results/pseudobulk/broad/
+!results/pseudobulk/broad/*.csv
 
-# Ignore local interactive exports
+!results/de_pseudobulk_broad/
+!results/de_pseudobulk_broad/*.csv
+
+# Ignore exploratory or heavy local outputs
 results/figures/*.html
+results/wgcna_broad/
+results/pseudobulk_exc_focus/
+results/de_pseudobulk_exc_focus/
 
-# Ignore exploratory WGCNA outputs by default
-results/wgcna_microglia/
-
-
-# Remote shortcut / local machine artifacts
-*.inetloc
+# Local metadata
+/data/metadata/

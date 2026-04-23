@@ -1,0 +1,11 @@
+cluster,rank,subtype_score_name,suggested_subtype,mean_score
+21,1,Vasc.Endo.Venous_score,Vasc.Endo.Venous,1.2656709693546677
+21,2,Vasc.Endo.Capillary_score,Vasc.Endo.Capillary,1.0923135718923194
+21,3,Vasc.Endo.Arterial_score,Vasc.Endo.Arterial,0.9118412351977204
+21,4,Vasc.Mural.SMC_score,Vasc.Mural.SMC,0.5183639118600858
+21,5,Vasc.Fibro.CLMP_KCNMA1_score,Vasc.Fibro.CLMP_KCNMA1,0.3098949680873704
+22,1,Vasc.Mural.Pericyte_score,Vasc.Mural.Pericyte,0.9837469506867498
+22,2,Vasc.Fibro.CLMP_PDGFRA_score,Vasc.Fibro.CLMP_PDGFRA,0.8863268453510573
+22,3,Vasc.Mural.SMC_score,Vasc.Mural.SMC,0.6795800900294835
+22,4,Vasc.Fibro.CLMP_KCNMA1_score,Vasc.Fibro.CLMP_KCNMA1,0.35646740464713533
+22,5,Vasc.Endo.Venous_score,Vasc.Endo.Venous,0.30295445432327894

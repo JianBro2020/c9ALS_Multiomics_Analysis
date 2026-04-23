@@ -1,0 +1,2 @@
+obsm_key,batch_col,raw_batch_asw,batch_mixing_asw_1_minus_abs_asw,n_neighbors,ilisi_mean,ilisi_median,ilisi_min,ilisi_max
+X_pca_harmony,sample,-0.16017243266105652,0.8398275673389435,30,5.516368393929075,5.5555555555555545,1.0,11.249999999999998
