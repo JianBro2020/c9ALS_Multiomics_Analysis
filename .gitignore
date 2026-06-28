@@ -68,3 +68,7 @@ results/de_pseudobulk_exc_focus/
 
 # Local metadata
 /data/metadata/
+
+# Local analysis caches
+.matplotlib_cache/
+.numba_cache/
