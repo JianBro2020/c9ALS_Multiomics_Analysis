@@ -1,0 +1,5 @@
+marker_set,present_genes,missing_genes,n_present
+UMN_L5_ET_candidate,"VAT1L, THSD4, EYA4, POU3F1, FEZF2, BCL11B, PCP4",,7
+L5_deep_layer,"PCP4, BCL11B, FEZF2, THEMIS, NR4A2",,5
+L6_corticothalamic_like,"TLE4, CCBE1, MEGF11, FOXP2",,4
+excitatory_identity,"SLC17A7, SATB2",,2

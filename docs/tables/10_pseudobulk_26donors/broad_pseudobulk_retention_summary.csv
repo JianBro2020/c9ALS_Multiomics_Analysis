@@ -1,0 +1,13 @@
+group_name,condition,n_retained_donors,min_cells,median_cells,max_cells
+Excitatory,Control,9,107,721.0,1910
+Excitatory,c9ALS,6,960,2289.5,2815
+Excitatory,sALS,10,46,1239.0,2746
+Glia,Control,10,608,4213.5,5240
+Glia,c9ALS,6,1034,4321.5,5894
+Glia,sALS,10,3264,5213.5,10100
+Inhibitory,Control,9,28,279.0,711
+Inhibitory,c9ALS,6,171,852.5,1396
+Inhibitory,sALS,10,41,595.5,1299
+Vascular,Control,7,20,30.0,63
+Vascular,c9ALS,6,30,52.0,162
+Vascular,sALS,7,21,106.0,115

@@ -1,0 +1,13 @@
+group_name,condition,n_retained_donors,min_cells,median_cells,max_cells
+Glia_Astro,Control,10,82,442.5,844
+Glia_Astro,c9ALS,6,184,606.0,674
+Glia_Astro,sALS,10,209,631.0,1144
+Glia_Micro,Control,10,49,216.0,419
+Glia_Micro,c9ALS,6,40,346.0,538
+Glia_Micro,sALS,10,25,252.0,529
+Glia_OPC,Control,10,68,296.0,756
+Glia_OPC,c9ALS,6,254,369.0,492
+Glia_OPC,sALS,10,148,411.5,618
+Glia_Oligo,Control,10,101,2826.0,3777
+Glia_Oligo,c9ALS,6,556,3112.0,4574
+Glia_Oligo,sALS,10,2537,4340.5,8668

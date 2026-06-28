@@ -1,0 +1,6 @@
+target_group,source_cell_subtype
+Glia_Oligo,Glia.Oligo
+Glia_OPC,Glia.OPC
+Glia_Micro,Glia.Micro
+Glia_Astro,Glia.Astro.GFAP.neg
+Glia_Astro,Glia.Astro.GFAP.pos
